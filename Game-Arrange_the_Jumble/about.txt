@@ -1,0 +1,3 @@
+This python built game provides you jumbled words which are to be arranged to form a meaningful word.
+Scores will be generated at the end of each game to announce the winner.
+Enjoy with a partner ;)
