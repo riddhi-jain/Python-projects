@@ -1,0 +1,5 @@
+Miss that cross-circle grid you used to play as a child?
+
+Well, here is the everenjoyed tic-tac-toe game built using python libraries and toolkits.
+
+Let's see if you can beat the computer ;O
