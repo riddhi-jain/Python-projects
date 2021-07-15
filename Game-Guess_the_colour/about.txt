@@ -1,0 +1,5 @@
+Focus your brains fellas... Let's see if you can concentrate enough to win!
+
+This is a python built game that challenges you to spell the correst colour you see while the time runs.
+
+Fork to enjoy :D
